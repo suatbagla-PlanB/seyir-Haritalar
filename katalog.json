@@ -1,0 +1,15 @@
+{
+  "bolgeler": [
+    {
+      "ad": "Midilli ve çevresi",
+      "dosya": "midilli14.pmtiles",
+      "url": "https://github.com/suatbagla-PlanB/seyir-haritalar/releases/download/haritalar-v1/midilli14.pmtiles",
+      "boyutMB": 16
+    },
+    {
+      "ad": "Sakız ve Çeşme",
+      "dosya": "sakiz_cesme14.pmtiles",
+      "url": "https://github.com/suatbagla-PlanB/seyir-haritalar/releases/download/haritalar-v1/sakiz_cesme14.pmtiles"
+    }
+  ]
+}
